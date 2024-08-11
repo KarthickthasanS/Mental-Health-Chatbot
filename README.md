@@ -17,7 +17,7 @@ This project is a simple chatbot built with Flask that can respond to user input
 ## Setup Instructions
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+     https://github.com/KarthickthasanS/Mental-Health-Chatbot.git
 2. Install the required dependencies using pip.
     ```bash
     pip install -r requirements.txt
